@@ -3,7 +3,7 @@ hi, i'm Raghav, a passionate java enthusiast and a computer student from india. 
 - 💼 currently learning java :)
 - 💬 ask me about anything, i am happy to help;
 
-🚧 **my todo list stats:**
+🚧 **my todo list:**
 <!-- TODO-IST:START -->
 🏆  Master java language          
 🌸  Learn Intermediate C++ and Python         
