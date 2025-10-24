@@ -11,5 +11,4 @@ hi, i'm Raghav, a passionate java enthusiast and a computer student from india. 
 ⏳  Code everyday as long as possible!
 <!-- TODO-IST:END -->
 
-Thanks alot for reading!
-(New official github account)
+Thankyou for reading!
