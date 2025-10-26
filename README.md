@@ -3,12 +3,11 @@ hi, i'm Raghav, a passionate java enthusiast and a computer student from india. 
 - 💼 currently learning java :)
 - 💬 ask me about anything, i am happy to help;
 
-🚧 **my todo list:**
+🚧 **todo list:**
 <!-- TODO-IST:START -->
-🏆  Master java language          
+🛰️  Master java language          
 🌸  Learn Intermediate C++ and Python         
-✅  Freelance       
-⏳  Code everyday as long as possible!
+⛷️  Freelance       
 <!-- TODO-IST:END -->
 
 Thankyou for reading!
