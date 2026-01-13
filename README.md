@@ -6,8 +6,8 @@ hi, i'm Raghav, a passionate java enthusiast and a computer student from india. 
 🚧 **todo list:**
 <!-- TODO-IST:START -->
 🛰️  Master java language          
-🌸  Learn Intermediate C++ and Python         
-⛷️  Freelance       
+🌸  Learn Intermediate AI/ML and Python         
+⛷️  Participate in open source dev.       
 <!-- TODO-IST:END -->
 
 Thankyou for reading!
